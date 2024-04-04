@@ -1,4 +1,4 @@
-# Etudiant à 42 PERPGINAN
+# mrabat à 42 PERPGINAN
 
 <p align="center">
 	<img src="src/mrabat.jpg" alt="mrabat"/>

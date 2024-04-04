@@ -1,4 +1,14 @@
-### Hi there 👋
+# Etudiant à 42 PERPGINAN
+
+<p align="center">
+	<img src="src/mrabat.jpg" alt="mrabat"/>
+</p>
+
+## Description
+
+Je suis étudiant à 42 Perpignan, je suis passionné par l'informatique et la programmation.
+
+Je fais parti de la prmiere promotion de l'ecole 42 Perpignan.
 
 <!--
 **rabatm/rabatm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

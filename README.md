@@ -14,7 +14,7 @@ Etudiant à 42 Perpignan, depuis fevrier 2023.
 
 [![libft](src/libft.png)](https://github.com/rabatm/libft)
 [![minishell](src/minishell.png)](https://github.com/rabatm/42_Minishell)
-[![pushswap](src/pushswap.png)](https://github.com/rabatm/42_push_swap)
+[![pushswap](src/PushSwap.png)](https://github.com/rabatm/42_push_swap)
 [![pipex](src/pipex.png)](https://github.com/rabatm/pipex_42)
 
 # 🔧 Technologies & Tools

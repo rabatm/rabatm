@@ -4,11 +4,16 @@
 	<img src="src/mrabat.jpg" alt="mrabat"/>
 </p>
 
-## Description
+## Promo 2023
 
-Je suis étudiant à 42 Perpignan, je suis passionné par l'informatique et la programmation.
+Etudiant à 42 Perpignan, depuis fevrier 2023.
 
-Je fais parti de la prmiere promotion de l'ecole 42 Perpignan.
+### Mes projets 42
+
+[![libft](src/libft.png)](https://github.com/rabatm/libft)
+[![minishell](src/minishell.png)](https://github.com/rabatm/42_Minishell)
+[![pushswap](src/pushswap.png)](https://github.com/rabatm/42_push_swap)
+[![pipex](src/pipex.png)](https://github.com/rabatm/pipex_42)
 
 <!--
 **rabatm/rabatm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

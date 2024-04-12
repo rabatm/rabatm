@@ -1,16 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79E27&random=true&width=435&lines=Reactjs+ReacjtNative+Nextjs;Student+at+42+perpignan)](https://git.io/typing-svg)
 
-# 🎒 mrabat à 42 PERPGINAN
+# Martin Rabat
 
 <p align="center">
 	<img src="src/mrabat.jpg" alt="mrabat"/>
 </p>
 
-## 📅 Promo 2023
+## 👋 About me
 
-Etudiant à 42 Perpignan, depuis fevrier 2023.
+🎒 Student at 42 Perpignan. \
+👨‍🏫 OpenClassroom Mentor. \
+👨‍⚕️ ReactJs, ReactNative, NextJs, nodeJS Developer. \
+📚 Passionate about new technologies.
 
-## 🗂️ Mes projets 42
+## 🗂️ My 42 projects
 
 [![libft](src/libft.png)](https://github.com/rabatm/libft)
 [![minishell](src/minishell.png)](https://github.com/rabatm/42_Minishell)

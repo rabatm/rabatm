@@ -8,7 +8,10 @@
 
 ## 👋 About me
 
-🎒 Student at 42 Perpignan. \
+🎒 Student at 42 Perpignan.
+
+[![mrabat's 42 stats](https://badge.mediaplus.ma/honeytones/mrabat?UM6P=off)](https://github.com/oakoudad/badge42)
+
 👨‍🏫 OpenClassroom Mentor. \
 👨‍⚕️ ReactJs, ReactNative, NextJs, nodeJS Developer. \
 📚 Passionate about new technologies.
